@@ -11,6 +11,19 @@
 💻 Interested in Java, JavaScript, MERN Stack and ServiceNow.
 
 🌱 Currently learning modern web development.
+## 🌱 Currently Learning
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/MERN%20Stack-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+
+  <img src="https://img.shields.io/badge/Advanced%20JavaScript-Learning-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+  <img src="https://img.shields.io/badge/DSA-Learning-FF6B6B?style=for-the-badge"/>
+
+  <img src="https://img.shields.io/badge/ServiceNow-CSA-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white"/>
+
+</p>
 
 🚀 Building projects and improving my coding skills.
 
