@@ -88,9 +88,9 @@ A personal portfolio website showcasing my skills, projects, learning journey an
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NANDU1156&show_icons=true&theme=tokyonight" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDU1156&layout=compact&theme=tokyonight" height="180"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=NANDU1156&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Nandini's GitHub Stats">
 </p>
 
 ## 🔥 GitHub Streak
