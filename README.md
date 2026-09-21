@@ -42,12 +42,6 @@
 - ServiceNow
 - Git & GitHub
 
-## 🚀 Projects
-
-### 🗳️ Real-Time Voting Application
-
-A MERN-based voting application focused on creating a user-friendly and accessible digital voting experience.
-
 **Tech:** React.js | Node.js | Express.js | MongoDB
 ## 🚀 Featured Projects
 
