@@ -71,3 +71,22 @@ A MERN-based voting application focused on creating a user-friendly and accessib
   </a>
 
 </p>
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bade-nandini">
+    <img src="./assets/connect-with-me-glitter.gif"
+         alt="Connect With Me">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bade-nandini">
+    🔵 LinkedIn — Bade Nandini
+  </a>
+  &nbsp;&nbsp; | &nbsp;&nbsp;
+  <a href="https://github.com/NANDU1156">
+    🟣 GitHub — NANDU1156
+  </a>
+</p>
