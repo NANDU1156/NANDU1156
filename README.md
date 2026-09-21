@@ -37,9 +37,6 @@ A MERN-based voting application focused on creating a user-friendly and accessib
 
 **Tech:** React.js | Node.js | Express.js | MongoDB
 
----
-
-⭐ Thanks for visiting my profile!
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -48,3 +45,8 @@ A MERN-based voting application focused on creating a user-friendly and accessib
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NANDU1156&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=NANDU1156&theme=tokyonight"/>
+</p>
