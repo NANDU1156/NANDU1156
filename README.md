@@ -49,6 +49,47 @@
 A MERN-based voting application focused on creating a user-friendly and accessible digital voting experience.
 
 **Tech:** React.js | Node.js | Express.js | MongoDB
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🗳️ Real-Time Voting Application
+
+A MERN-based voting application designed to provide a simple, user-friendly and accessible digital voting experience.
+
+**Tech Stack:**
+- React.js
+- Node.js
+- Express.js
+- MongoDB
+- REST API
+
+<a href="https://github.com/NANDU1156/voting_application">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💻 Portfolio Website
+
+A personal portfolio website showcasing my skills, projects, learning journey and contact information.
+
+**Tech Stack:**
+- HTML
+- CSS
+- JavaScript
+
+<a href="https://github.com/NANDU1156">
+  <img src="https://img.shields.io/badge/View%20More-GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+</tr>
+</table>
 
 ## 📊 GitHub Stats
 
