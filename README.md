@@ -58,19 +58,6 @@ A MERN-based voting application focused on creating a user-friendly and accessib
     alt="GitHub Contribution Snake">
 </p>
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-  <a href="https://www.linkedin.com/in/bade-nandini">
-    <img src="https://img.shields.io/badge/LinkedIn-Bade%20Nandini-blue?style=for-the-badge&logo=linkedin">
-  </a>
-
-  <a href="https://github.com/NANDU1156">
-    <img src="https://img.shields.io/badge/GitHub-NANDU1156-black?style=for-the-badge&logo=github">
-  </a>
-
-</p>
 
 <h2 align="center">🌐 Connect With Me</h2>
 
