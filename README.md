@@ -61,18 +61,28 @@ A MERN-based voting application focused on creating a user-friendly and accessib
 ## 🌐 Connect With Me
 
 <p align="center">
-  <img
-    src="./connect-with-me-glitter.gif"
-    alt="Connect With Me"
-    width="100%">
+
+  <a href="https://www.linkedin.com/in/bade-nandini">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Bade%20Nandini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn">
+  </a>
+
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://github.com/NANDU1156">
+    <img
+      src="https://img.shields.io/badge/GitHub-NANDU1156-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub">
+  </a>
+
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bade-nandini">
-    🔵 LinkedIn — Bade Nandini
-  </a>
-  &nbsp;&nbsp; | &nbsp;&nbsp;
-  <a href="https://github.com/NANDU1156">
-    🟣 GitHub — NANDU1156
+    <img
+      src="./connect-with-me-glitter.gif"
+      alt="Connect With Me"
+      width="100%">
   </a>
 </p>
