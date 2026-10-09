@@ -97,13 +97,6 @@ A personal portfolio website showcasing my skills, projects, learning journey an
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=NANDU1156&theme=tokyonight"/>
 </p>
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/NANDU1156/NANDU1156/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake">
-</p>
 
 ## 🌐 Connect With Me
 <p align="center">
